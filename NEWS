@@ -1,0 +1,47 @@
+9
+
+Enhancements:
+
+* Set the wiki source acording to the configured locale - SL #2871 (Gonzalo
+  Odiard)
+* Reorganize UI and implement new toolbars (Gonzalo Odiard)
+* New translations from the Localization Team
+
+Bug fixes:
+
+* Encode title of the page before download it - SL #2855 (Gonzalo Odiard)
+  If the word searched have a non ascii character, like a accent could not
+  be downloaded
+* Avoid crash when a article is downloaded - SL #2856 (Gonzalo Odiard)
+
+8 
+
+* Adding fr.wikipedia.org
+
+7
+
+* Adding es.wikipedia.org
+
+6
+
+* Patches by jpichon to fix parsing problem that had prevented processing of new articles
+
+5
+
+* Run activity in Sucrose 0.82 environment
+
+4
+
+* Run activity in CM12 environment
+
+3
+
+* major cleanup by alroot
+
+2
+
+* adding gettext strings
+
+1
+
+* new activity
